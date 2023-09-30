@@ -18,6 +18,7 @@
     <img align="left" height="40" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="left" height="40" width="40" alt="java-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     <img align="left" height="40" width="40" alt="git-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+    <img align="left" height="40" width="40" alt="git-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg"> 
 </div>
 <br>
 <h1></h1>

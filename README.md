@@ -1,4 +1,4 @@
-<h1 align="left">Bem-vindo 👋, Meu nome é Matheus, e esse é meu perfil!</h1>
+<h1 align="left">Bem-vindo 👋, Meu nome é Matheus!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusbarcellosb&color=yellow" alt="Vizualizações do Perfil" /> </p>
 

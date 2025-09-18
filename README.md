@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusbarcellosb&color=yellow" alt="Vizualizações do Perfil" /> </p>
 
-- 👨‍💻 Atualmente estou estudando na Residência em TIC no Serratec.
+- 👨‍💻 Atualmente estou cursando faculdade de TI na FAETERJ.
 
 - 💻 Buscando ser um desenvolvedor Full-Stack
 
